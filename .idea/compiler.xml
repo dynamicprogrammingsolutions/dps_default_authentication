@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dps_commons" />
+        <module name="dps_default_authentication" />
+        <module name="dps_webapplication" />
+        <module name="dpslogging" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="dps_commons" target="1.8" />
+      <module name="dps_default_authentication" target="1.8" />
+      <module name="dps_webapplication" target="1.8" />
+      <module name="dpslogging" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
