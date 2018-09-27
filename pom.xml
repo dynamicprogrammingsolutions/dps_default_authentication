@@ -4,7 +4,7 @@
 
     <groupId>com.dynamicprogrammingsolutions</groupId>
     <artifactId>dps.authentication.default</artifactId>
-    <version>1.0.2-SNAPSHOT</version>
+    <version>1.0.2</version>
     <packaging>jar</packaging>
     <name>DPS Default Authentication</name>
     <description>Defult implementation for dps.authentication</description>
@@ -176,7 +176,7 @@
         <connection>scm:git:git://github.com/dynamicprogrammingsolutions/dps_default_authentication.git</connection>
         <developerConnection>scm:git:ferenci84@github.com:dynamicprogrammingsolutions/dps_default_authentication.git</developerConnection>
         <url>https://github.com/dynamicprogrammingsolutions/dps_default_authentication</url>
-        <tag>HEAD</tag>
+        <tag>dps.authentication.default-1.0.2</tag>
     </scm>
 
     <dependencies>
