@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/dps_default_authentication.iml" filepath="$PROJECT_DIR$/dps_default_authentication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dps.authentication.default.iml" filepath="$PROJECT_DIR$/dps.authentication.default.iml" />
     </modules>
   </component>
 </project>
